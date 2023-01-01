@@ -4,6 +4,8 @@ Bash shell script that finds all h264 video files that have 10 bits of bit depth
 
 ## Usage
 
+[Mediainfo](https://mediaarea.net/en/MediaInfo) must be installed.
+
 ```bash
 chmod +x finder.sh
 
